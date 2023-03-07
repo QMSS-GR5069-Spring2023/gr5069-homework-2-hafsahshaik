@@ -1,6 +1,8 @@
 
 # This is Lab 1 by Hafsah Shaik, for class QMSS GR5015 - # Data Analysis. 
 
+In this lab I analyze various variables from the GSS 2006. I also graph these variables and draw conclusions from them. I also cross-tabulate two variables and draw conclusions. 
+
 
 # Byte-compiled / optimized / DLL files
 __pycache__/
