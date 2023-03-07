@@ -1,3 +1,7 @@
+
+# This is Lab 1 by Hafsah Shaik, for class QMSS GR5015 - # Data Analysis. 
+
+
 # Byte-compiled / optimized / DLL files
 __pycache__/
 *.py[cod]
